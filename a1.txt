@@ -3,3 +3,4 @@ second time commit
 third time commit
 
 modified in feature
+modified second time in feature
